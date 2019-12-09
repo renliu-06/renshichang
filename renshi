@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>发布人状态</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/发布人状态/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-3.2.1.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script src="resources/scripts/axure/jquery.nicescroll.min.js"></script>
+    <script src="data/document.js"></script>
+    <script src="files/发布人状态/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u362" class="ax_default _文本">
+        <div id="u362_div" class=""></div>
+        <div id="u362_text" class="text ">
+          <p><span style="text-decoration:none;">中智电烨服务平台</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u363" class="ax_default _文本">
+        <div id="u363_div" class=""></div>
+        <div id="u363_text" class="text ">
+          <p><span style="text-decoration:none;color:#22E68F;">信阳</span><span style="text-decoration:none;color:#6A6A6A;">[切换城市]</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u364" class="ax_default" data-left="1040" data-top="21" data-width="64" data-height="18">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u365" class="ax_default _文本">
+          <div id="u365_div" class=""></div>
+          <div id="u365_text" class="text ">
+            <p><span style="text-decoration:none;">登录</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u366" class="ax_default _文本">
+          <div id="u366_div" class=""></div>
+          <div id="u366_text" class="text ">
+            <p><span style="text-decoration:none;">注册</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u367" class="ax_default _文本">
+          <div id="u367_div" class=""></div>
+          <div id="u367_text" class="text ">
+            <p><span style="text-decoration:none;">/</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u368" class="ax_default _文本">
+        <div id="u368_div" class=""></div>
+        <div id="u368_text" class="text ">
+          <p><span style="text-decoration:none;">个人中心</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u369" class="ax_default _形状">
+        <img id="u369_img" class="img " src="images/用电服务发布/u252.svg"/>
+        <div id="u369_text" class="text " style="display:none; visibility: hidden">
+          <p></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u370" class="ax_default" data-left="55" data-top="112" data-width="295" data-height="15">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u371" class="ax_default _文本">
+          <div id="u371_div" class=""></div>
+          <div id="u371_text" class="text ">
+            <p><span style="text-decoration:none;">中智电烨信阳服务平台</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u372" class="ax_default _文本">
+          <div id="u372_div" class=""></div>
+          <div id="u372_text" class="text ">
+            <p><span style="text-decoration:none;">&gt;</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u373" class="ax_default _文本">
+          <div id="u373_div" class=""></div>
+          <div id="u373_text" class="text ">
+            <p><span style="text-decoration:none;">信阳家政服务</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u374" class="ax_default _文本">
+          <div id="u374_div" class=""></div>
+          <div id="u374_text" class="text ">
+            <p><span style="text-decoration:none;">&gt;</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u375" class="ax_default _文本">
+          <div id="u375_div" class=""></div>
+          <div id="u375_text" class="text ">
+            <p><span style="text-decoration:none;">信阳维修</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u376" class="ax_default _文本">
+        <div id="u376_div" class=""></div>
+        <div id="u376_text" class="text ">
+          <p><span style="text-decoration:none;">安装开关</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u377" class="ax_default _文本">
+        <div id="u377_div" class=""></div>
+        <div id="u377_text" class="text ">
+          <p><span style="text-decoration:none;">2019-12-08 更新</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u378" class="ax_default _文本">
+        <div id="u378_div" class=""></div>
+        <div id="u378_text" class="text ">
+          <p><span style="text-decoration:none;">56次浏览</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u379" class="ax_default _图像">
+        <img id="u379_img" class="img " src="images/发布人状态/u379.jpg"/>
+        <div id="u379_text" class="text " style="display:none; visibility: hidden">
+          <p></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u380" class="ax_default _文本">
+        <div id="u380_div" class=""></div>
+        <div id="u380_text" class="text " style="display:none; visibility: hidden">
+          <p></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u381" class="ax_default _文本">
+        <div id="u381_div" class=""></div>
+        <div id="u381_text" class="text ">
+          <p><span style="text-decoration:none;">类&nbsp; &nbsp; &nbsp;&nbsp; 型：维修</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u382" class="ax_default _文本">
+        <div id="u382_div" class=""></div>
+        <div id="u382_text" class="text ">
+          <p><span style="text-decoration:none;">类&nbsp; &nbsp; &nbsp;&nbsp; 别：家电</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u383" class="ax_default _文本">
+        <div id="u383_div" class=""></div>
+        <div id="u383_text" class="text ">
+          <p><span style="text-decoration:none;">服务区域：平桥&nbsp; &nbsp;&nbsp; 浉河&nbsp; &nbsp;&nbsp; 羊山新区</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u384" class="ax_default _文本">
+        <div id="u384_div" class=""></div>
+        <div id="u384_text" class="text ">
+          <p><span style="text-decoration:none;">联&nbsp; 系&nbsp; 人：黎万红</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u385" class="ax_default _文本">
+        <div id="u385_div" class=""></div>
+        <div id="u385_text" class="text ">
+          <p><span style="text-decoration:none;">联系地址：浉河区世纪广场商住苑15栋4单元4-01室</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u386" class="ax_default" data-left="242" data-top="313" data-width="229" data-height="15">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u387" class="ax_default _文本">
+          <div id="u387_div" class=""></div>
+          <div id="u387_text" class="text ">
+            <p><span style="text-decoration:none;">联系电话：1562387****</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u388" class="ax_default _文本">
+          <div id="u388_div" class=""></div>
+          <div id="u388_text" class="text ">
+            <p><span style="text-decoration:none;">点击查看详情</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u389" class="ax_default" data-left="55" data-top="338" data-width="20" data-height="37">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u390" class="ax_default box_1">
+          <img id="u390_img" class="img " src="images/发布人状态/u390.svg"/>
+          <div id="u390_text" class="text " style="display:none; visibility: hidden">
+            <p></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (形状) -->
+        <div id="u391" class="ax_default _形状">
+          <img id="u391_img" class="img " src="images/发布人状态/u391.svg"/>
+          <div id="u391_text" class="text " style="display:none; visibility: hidden">
+            <p></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u392" class="ax_default" data-left="202" data-top="338" data-width="20" data-height="37">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u393" class="ax_default box_1">
+          <img id="u393_img" class="img " src="images/发布人状态/u390.svg"/>
+          <div id="u393_text" class="text " style="display:none; visibility: hidden">
+            <p></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (形状) -->
+        <div id="u394" class="ax_default _形状">
+          <img id="u394_img" class="img " src="images/发布人状态/u391.svg"/>
+          <div id="u394_text" class="text " style="display:none; visibility: hidden">
+            <p></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u395" class="ax_default _图像">
+        <img id="u395_img" class="img " src="images/发布人状态/u395.png"/>
+        <div id="u395_text" class="text " style="display:none; visibility: hidden">
+          <p></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u396" class="ax_default _图像">
+        <img id="u396_img" class="img " src="images/发布人状态/u396.png"/>
+        <div id="u396_text" class="text " style="display:none; visibility: hidden">
+          <p></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u397" class="ax_default" data-left="312" data-top="367" data-width="15" data-height="17">
+
+        <!-- Unnamed (图像) -->
+        <div id="u398" class="ax_default _图像">
+          <img id="u398_img" class="img " src="images/发布人状态/u398.png"/>
+          <div id="u398_text" class="text " style="display:none; visibility: hidden">
+            <p></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u399" class="ax_default _文本">
+          <div id="u399_div" class=""></div>
+          <div id="u399_text" class="text ">
+            <p><span style="text-decoration:none;">安</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u400" class="ax_default _文本">
+        <div id="u400_div" class=""></div>
+        <div id="u400_text" class="text ">
+          <p><span style="text-decoration:none;">服务承诺：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u401" class="ax_default _文本">
+        <div id="u401_div" class=""></div>
+        <div id="u401_text" class="text ">
+          <p><span style="text-decoration:none;">服务安全保障</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u402" class="ax_default _文本">
+        <div id="u402_div" class=""></div>
+        <div id="u402_text" class="text ">
+          <p><span style="text-decoration:none;">服务评价（0）</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (直线 / 行距) -->
+      <div id="u403" class="ax_default line">
+        <img id="u403_img" class="img " src="images/发布人状态/u403.svg"/>
+        <div id="u403_text" class="text " style="display:none; visibility: hidden">
+          <p></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u404" class="ax_default _文本">
+        <div id="u404_div" class=""></div>
+        <div id="u404_text" class="text ">
+          <p><span style="text-decoration:none;">评论</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u405" class="ax_default _文本">
+        <div id="u405_div" class=""></div>
+        <div id="u405_text" class="text ">
+          <p><span style="text-decoration:none;">～任务尚未完成</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图像) -->
+      <div id="u406" class="ax_default _图像">
+        <img id="u406_img" class="img " src="images/发布人状态/u406.png"/>
+        <div id="u406_text" class="text " style="display:none; visibility: hidden">
+          <p></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u407" class="ax_default _文本">
+        <div id="u407_div" class=""></div>
+        <div id="u407_text" class="text ">
+          <p><span style="text-decoration:none;">当前状态：已发布</span></p>
+        </div>
+      </div>
+
+      <!-- 阴影 (图像) -->
+      <div id="u408" class="ax_default _图像" data-label="阴影">
+        <img id="u408_img" class="img " src="images/发布人状态/阴影_u408.png"/>
+        <div id="u408_text" class="text " style="display:none; visibility: hidden">
+          <p></p>
+        </div>
+      </div>
+
+      <!-- 遮罩层 (矩形) -->
+      <div id="u409" class="ax_default box_1" data-label="遮罩层">
+        <img id="u409_img" class="img " src="images/发布人状态/遮罩层_u409.svg"/>
+        <div id="u409_text" class="text " style="display:none; visibility: hidden">
+          <p></p>
+        </div>
+      </div>
+
+      <!-- 确定返回发布列表 (组合) -->
+      <div id="u410" class="ax_default" data-label="确定返回发布列表" data-left="599" data-top="179" data-width="233" data-height="101">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u411" class="ax_default box_1">
+          <img id="u411_img" class="img " src="images/发布人状态/u411.svg"/>
+          <div id="u411_text" class="text " style="display:none; visibility: hidden">
+            <p></p>
+          </div>
+        </div>
+
+        <!-- 确定 (矩形) -->
+        <div id="u412" class="ax_default box_1" data-label="确定">
+          <img id="u412_img" class="img " src="images/发布人状态/确定_u412.svg"/>
+          <div id="u412_text" class="text ">
+            <p><span style="text-decoration:none;">确定</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u413" class="ax_default _文本">
+          <div id="u413_div" class=""></div>
+          <div id="u413_text" class="text ">
+            <p><span style="text-decoration:none;">发布成功！点击确定返回发布列表</span></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="resources/scripts/axure/ios.js"></script>
+  </body>
+</html>
